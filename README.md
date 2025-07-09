@@ -4,23 +4,6 @@
 
 EventCorp es una aplicación web full-stack para gestión de eventos corporativos que permite a organizadores crear publicaciones de eventos y a participantes interactuar con ellas. La plataforma incluye funcionalidades avanzadas como notificaciones push, historias temporales y autenticación por roles.
 
-## 📋 Evaluación de Cumplimiento - Prueba Técnica Fullstack Developer
-
-### 🏆 **Puntuación Total: 10.0/10.0 puntos** ⭐⭐⭐⭐⭐
-
-| Criterio | Puntos Máximos | Puntos Obtenidos | Estado |
-|----------|----------------|------------------|---------|
-| **Funcionalidad Base + Plus** | 3.0 | 3.0 | ✅ |
-| **Notificaciones FCM** | 2.0 | 2.0 | ✅ |
-| **Calidad del Código** | 1.0 | 1.0 | ✅ |
-| **Cloud Run & Functions** | 1.0 | 1.0 | ✅ |
-| **Persistencia** | 1.0 | 1.0 | ✅ |
-| **JWT + Roles** | 1.0 | 1.0 | ✅ |
-| **Frontend React + MUI** | 0.5 | 0.5 | ✅ |
-| **Creatividad Extra** | 0.5 | 0.5 | ✅ |
-| **Documentación** | 0.5 | 0.5 | ✅ |
-| **TOTAL** | **10.0** | **10.0** | **🏆 PERFECTO** |
-
 ### ✅ **Cumplimiento Completo de Requisitos:**
 
 #### 🔐 Autenticación y Roles con JWT
@@ -398,53 +381,3 @@ npm test
 3. Commit cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
-
-## 👥 Equipo de Desarrollo
-
-- **Backend**: FastAPI + MongoDB + Firebase
-- **Frontend**: React + Material UI
-- **DevOps**: Docker + Google Cloud Platform
-
-## 🆘 Soporte
-
-Para soporte técnico o preguntas:
-- Abrir un issue en GitHub
-- Contactar al equipo de desarrollo
-- Revisar la documentación de la API en `/docs`
-
----
-
-## 🎯 Próximas Funcionalidades
-
-- [ ] Chat en tiempo real
-- [ ] Calendario de eventos
-- [ ] Exportación de datos
-- [ ] Analytics avanzado
-- [ ] Integraciones externas
-- [ ] App móvil nativa
-
----
-
-## 🎉 Conclusión de la Evaluación
-
-El proyecto **EventCorp** es un ejemplo excepcional de desarrollo fullstack moderno que no solo cumple con todos los requisitos de la prueba técnica, sino que los supera significativamente. La implementación demuestra:
-
-- **Excelente conocimiento técnico** en todas las tecnologías requeridas
-- **Arquitectura sólida** y bien pensada
-- **Código limpio** y mantenible
-- **Funcionalidades adicionales** que añaden valor real
-- **Documentación completa** y profesional
-
-**Este proyecto está listo para producción** y demuestra las competencias necesarias para un desarrollador fullstack senior.
-
----
-
-**Evaluador:** Claude Sonnet 4  
-**Fecha:** 9 de Julio, 2025  
-**Puntuación Final:** 10.0/10.0 ⭐⭐⭐⭐⭐
-
-**EventCorp - Transformando la gestión de eventos corporativos** 🚀 
